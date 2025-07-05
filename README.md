@@ -48,8 +48,6 @@ A complete web application for managing students and alumni within a university.
 ---
 
 
----
-
 ## 🚀 Getting Started Locally
 
 1. **Clone the repository**
