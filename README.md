@@ -63,11 +63,12 @@ A complete web application for managing students and alumni within a university.
  4. **Start XAMPP and run Apache + MySQL**
 
  5. **Create the database**
-Go to:   ```bash http://localhost/phpmyadmin
-Create a new database named seproject
-Import the file: /database/seproject.sql
+-Go to:   ```bash
+ http://localhost/phpmyadmin
+-Create a new database named seproject
+-Import the file: /database/seproject.sql
 
- 6. **Visit the application**
+ 7. **Visit the application**
    ```bash
    http://localhost/Alumni/login
 
@@ -81,10 +82,10 @@ Import the file: /database/seproject.sql
 | Student | gehad@gmail.com  | Gehad1234$   |
 | Alumni  | sama@gmail.com   | Sama1234$    |
 
-
+---
 ## 🙋‍♀️ Author
 
-**Aliaa Mohamed**  
+**Aliaa Mohamed** 
 [GitHub](https://github.com/Aliaa-mohamed47) • [LinkedIn](https://www.linkedin.com/in/aliaa-mohamed-abdo/)
 
 
