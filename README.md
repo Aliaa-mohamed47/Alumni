@@ -34,8 +34,7 @@ A complete web application for managing students and alumni within a university.
 ---
 
 ## 📁 Project Structure (simplified)
-
-
+````
 /Alumni
 ├── controllers/ # App logic & request handling
 ├── models/ # Database interaction logic
@@ -43,7 +42,7 @@ A complete web application for managing students and alumni within a university.
 │ └── Auth/ # Login & Registration pages
 ├── database/ # Database connection config
 └── seproject.sql # SQL dump file
-
+````
 
 
 ---
@@ -57,18 +56,20 @@ A complete web application for managing students and alumni within a university.
    ```bash
    git clone https://github.com/Aliaa-mohamed47/Alumni.git
 
-# 2. Move the project to XAMPP htdocs
-mv Alumni C:/xampp/htdocs/Alumni
+ 2. **Move the project to XAMPP htdocs**
+    ```bash
+    mv Alumni C:/xampp/htdocs/Alumni
 
-# 3. Start XAMPP and run Apache + MySQL
+ 4. **Start XAMPP and run Apache + MySQL**
 
-# 4. Create the database
--Go to: http://localhost/phpmyadmin
--Create a new database named seproject
--Import the file: /database/seproject.sql
+ 5. **Create the database**
+Go to:   ```bash http://localhost/phpmyadmin
+Create a new database named seproject
+Import the file: /database/seproject.sql
 
-# 5. Visit the application
-http://localhost/Alumni/login
+ 6. **Visit the application**
+   ```bash
+   http://localhost/Alumni/login
 
 
 
