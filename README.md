@@ -72,6 +72,7 @@ A complete web application for managing students and alumni within a university.
    ```bash
    http://localhost/Alumni/login
 
+---
 
 
 ## 🔐 Default Login Credentials
