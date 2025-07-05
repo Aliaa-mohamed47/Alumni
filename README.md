@@ -63,14 +63,13 @@ A complete web application for managing students and alumni within a university.
  4. **Start XAMPP and run Apache + MySQL**
 
  5. **Create the database**
--Go to:   ```bash
- http://localhost/phpmyadmin
--Create a new database named seproject
--Import the file: /database/seproject.sql
+   - Go to: [http://localhost/phpmyadmin](http://localhost/phpmyadmin)
+   - Create a new database named `seproject`
+   - Import the SQL file: `database/seproject.sql`
 
- 7. **Visit the application**
-   ```bash
-   http://localhost/Alumni/login
+6. **Visit the application**
+   - Open: [http://localhost/Alumni/login](http://localhost/Alumni/login)
+
 
 ---
 
